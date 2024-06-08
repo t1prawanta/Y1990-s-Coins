@@ -1,10 +1,70 @@
+สวัสดี Y1990's Coins 
+
+[![อ _28_05_2024_16_35_32](https://github.com/t1prawanta/Y1990-s-Coins/assets/167210935/c71bbc84-b4ba-479f-80c1-29bd64367d68)
+
+----
+
 [![Node.js Package](https://github.com/Terux101/wab3-com.js/actions/workflows/npm-publish.yml/badge.svg?branch=version&event=deployment_status)](https://github.com/Terux101/wab3-com.js/actions/workflows/npm-publish.yml)
-<script src="https://gist.github.com/Terux101/be1a1c3b2b6bb5a4d2b8ec66f0b83214.js"></script>
-ethminer -P stratum1+tcp://0x8BFD383402a7e5CB0702A115bC4EBA5636E93085.Teruxs@asia.cruxpool.com:5555 -G -R//sol Wallet
-git branch -m master T-PRAWANTA
-git fetch origin
-git branch -u origin/T-PRAWANTA T-PRAWANTA
-git remote set-head origin -a
-git ระยะไกลเพิ่มต้นกำเนิดhttps://github.com/t1prawanta/Y1990-s-Coins.git
-สาขา git -M main 
-git push -u origin main
+
+----
+
+เครือข่ายฟิวส์เป็นบัญชีแยกประเภทสาธารณะที่เก็บข้อมูลและไม่มีการกล่าวถึงการรวบรวมข้อมูลประจำปีที่แจ้งให้ทราบ
+
+เหรียญเหรียญ [ เหรียญปี 1990 ] -Y90s
+
+คำอธิบายที่อยู่คำ
+ชื่อสัญญา:
+MintableBurnableToken
+
+
+เปิดใช้งานการเพิ่มประสิทธิภาพ
+จริง
+เวอร์ชั่นคอมไพเลอร์:
+v0.5.17+commit.d19bba13
+
+
+การเพิ่มประสิทธิภาพการทำงาน:
+200
+เวอร์ชัน: EVM
+
+ค่าเริ่มต้น
+
+
+ตรวจสอบแล้วที่: 
+2022-05-13 00:23:16.736441Z
+
+อาร์กิวเมนต์ตัวสร้าง:
+
+รายละเอียดที่อยู่สัญญา
+
+0xE29270c4387684c6492fe690508E31740cFd4458
+
+MintableBurnableTokenปี 1990 (Y90)11 รายการ 439,232 แก๊สที่ใช้ อัพเดทล่าสุด: Block # 17,467,617
+
+สร้างโดย0x78cb0f–8929a4 at 0x9c1218–e3f138
+
+สมดุล
+
+ชื่อสัญญา: MintableBurnableToken
+
+
+
+เปิดใช้งานการเพิ่มประสิทธิภาพจริงเวอร์ชั่นคอมไพเลอร์v0.5.17+commit.d19bba13
+
+
+
+การเพิ่มประสิทธิภาพการทำงาน 
+200
+
+เวอร์ชัน EVM
+ค่าเริ่มต้น
+
+
+
+ตรวจสอบแล้วที่
+2022-05-13 00:23:16.736441Z
+
+อาร์กิวเมนต์ตัวสร้าง
+000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000077ab8feab6a4191d8000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000007793139393027730000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000035939300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003f68747470733a2f2f73747564696f2e667573652e696f2f6170692f76312f6d657461646174612f36323738326366663138623134633030313564656330643600 Arg [0] (string) : y1990's Arg [1] (string) : Y90 Arg [2] (uint256) : 9042022000000000000000000 Arg [3] (string) : https://studio.fuse.io/api/v1/metadata/62782cff18b14c0015dec0d6
+
+<a href="https://dontkillmyapp.com/realme?1"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/realme1.svg"></a>
