@@ -1,14 +1,17 @@
-            - ชื่อ : วิ่งบน/github/workflows/main.yml
+              - ชื่อ : วิ่งบน/github/workflows/main.yml
   # คุณสามารถปักหมุดตามคอมมิตที่แน่นอนหรือเวอร์ชันได้
   # ใช้: runs-on/action@5ca46e124b796dbc6db6a2f0a37ac99eb307cd55
-  การใช้งาน: runs-on/action@v1.0.0
-  กับ:
+    การใช้งาน: runs-on/action@v1.0.0
+    กับ: แพ็คเกจ Node.js
+<สคริปต์ src="
+https://gist.github.com/Terux101/be1a1c3b2b6bb5a4d2b8ec66f0b83214.js"></script>
     # รหัสแอป GitHub
-    รหัสแอป GitHub:
+    รหัสแอป GitHub: 
     # รหัสส่วนตัวของแอป GitHub
-    github-app-คีย์ส่วนตัว:
+    github-app-คีย์ส่วนตัว: applications/3cc32f2aa0a044a1cd8e
     # URL ฐาน API ของ GitHub
-    github-base-url: # ตัวเลือก ค่าเริ่มต้นคือ https://api.github.com
+    github-base-url: https://api.developer.coinbase.com/rpc/v1/base/_tGFZyH09MOhAzbjvKpqAB8UGgxvBpzz
+    # ตัวเลือก ค่าเริ่มต้นคือ https://api.github.com
     # ว่าจะดำเนินการทดสอบหรือไม่ ค่าเริ่มต้นคือเท็จ
     การรันแบบทดสอบ: # ตัวเลือก ค่าเริ่มต้นคือเท็จ
     # ค่าสำหรับแท็ก `stack` ที่กำหนดให้กับทรัพยากร AWS ที่สร้างขึ้นทั้งหมด
