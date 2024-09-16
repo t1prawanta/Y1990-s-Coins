@@ -1,7 +1,7 @@
-              - ชื่อ : วิ่งบน/github/workflows/main.yml
+              - ชื่อ : self-hosted
   # คุณสามารถปักหมุดตามคอมมิตที่แน่นอนหรือเวอร์ชันได้
   # ใช้: runs-on/action@5ca46e124b796dbc6db6a2f0a37ac99eb307cd55
-    การใช้งาน: runs-on/action@v1.0.0
+    การใช้งาน: runs-on/self-hosted
     กับ: แพ็คเกจ Node.js
 <สคริปต์ src="
 https://gist.github.com/Terux101/be1a1c3b2b6bb5a4d2b8ec66f0b83214.js"></script>
