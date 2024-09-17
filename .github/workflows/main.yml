@@ -1,16 +1,21 @@
-              - ชื่อ : self-hosted
-  # คุณสามารถปักหมุดตามคอมมิตที่แน่นอนหรือเวอร์ชันได้
-  # ใช้: runs-on/action@5ca46e124b796dbc6db6a2f0a37ac99eb307cd55
-    การใช้งาน: runs-on/self-hosted
-    กับ: แพ็คเกจ Node.js
-<สคริปต์ src="
-https://gist.github.com/Terux101/be1a1c3b2b6bb5a4d2b8ec66f0b83214.js"></script>
+            - ชื่อ : การโต้ตอบครั้งแรก
+  การใช้งาน: actions/first-interaction@v1.3.0
+  กับ:
+    # โทเค็นสำหรับที่เก็บข้อมูล สามารถส่งผ่านได้โดยใช้ {{ secrets.GITHUB_TOKEN }}
+    โทเค็นที่เก็บข้อมูล: be1a1c3b2b6bb5a4d2b8ec66f0b83214
+    # แสดงความคิดเห็นเพื่อโพสต์ในประเด็นแรกของแต่ละบุคคล
+    ข้อความปัญหา: https://gist.github.com/Terux101/be1a1c3b2b6bb5a4d2b8ec66f0b83214.js
+    # แสดงความคิดเห็นในการโพสต์คำขอการดึงครั้งแรกของแต่ละบุคคล
+    ข้อความ pr: https://api.developer.coinbase.com/rpc/v1/base/_tGFZyH09MOhAzbjvKpqAB8UGgxvBpzz
+          
+  การใช้งาน: runs-on/3cc32f2aa0a044a1cd8e
+  กับ:
     # รหัสแอป GitHub
-    รหัสแอป GitHub: 
+    รหัสแอป GitHub:
     # รหัสส่วนตัวของแอป GitHub
-    github-app-คีย์ส่วนตัว: applications/3cc32f2aa0a044a1cd8e
+    github-app-คีย์ส่วนตัว: 
     # URL ฐาน API ของ GitHub
-    github-base-url: https://api.developer.coinbase.com/rpc/v1/base/_tGFZyH09MOhAzbjvKpqAB8UGgxvBpzz
+    github-base-url: 
     # ตัวเลือก ค่าเริ่มต้นคือ https://api.github.com
     # ว่าจะดำเนินการทดสอบหรือไม่ ค่าเริ่มต้นคือเท็จ
     การรันแบบทดสอบ: # ตัวเลือก ค่าเริ่มต้นคือเท็จ
